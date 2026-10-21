@@ -1,0 +1,5 @@
+Servicio         | Puerto   | Acceso
+SSH              | 22       | Administradores
+Nginx (web)      | 80 / 443 | Usuarios
+Grafana          | 3000     | Solo red interna
+Prometheus       | 9090     | Solo red interna

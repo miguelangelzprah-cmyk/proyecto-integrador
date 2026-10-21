@@ -1,0 +1,5 @@
+Riesgo               | Impacto | Mitigacion
+Caida de servicio    | Alto    | Monitoreo y alertas
+Perdida de datos     | Alto    | Respaldo y prueba de restauracion
+Acceso no permitido  | Alto    | Firewall y claves SSH
+Puerto en conflicto  | Medio   | Mapa de puertos
